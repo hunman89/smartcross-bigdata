@@ -9,7 +9,7 @@
 
 #### 시스템 구성도
 
-![system](./essets/system.png)
+![system](./essets/system.PNG)
 
 
 
